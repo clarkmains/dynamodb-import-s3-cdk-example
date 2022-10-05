@@ -1,6 +1,6 @@
 # DynamoDB S3 Table Import CDK Example
 
-Repository for an article on [clarkmains.com](https://clarkmains.com).
+Repository for an article on [clarkmains.com](https://www.clarkmains.com/blog/dynamodb-import-s3/).
 
 ## Repository contents
 
